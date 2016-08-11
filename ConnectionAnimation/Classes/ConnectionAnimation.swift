@@ -8,9 +8,9 @@
 
 import UIKit
 
-class ConnectionAnimation: UIImageView {
+public class ConnectionAnimation: UIImageView {
 
-    override func layoutSubviews() {
+    override public func layoutSubviews() {
         super.layoutSubviews()
         
         self.image = UIImage(named: "guy.png", inBundle: NSBundle(forClass: ConnectionAnimation.self), compatibleWithTraitCollection: nil)
