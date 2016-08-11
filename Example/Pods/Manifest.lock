@@ -1,0 +1,14 @@
+PODS:
+  - ConnectionAnimation (0.1.0)
+
+DEPENDENCIES:
+  - ConnectionAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  ConnectionAnimation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConnectionAnimation: 1becc7ffa8fb2d9156e713a18edcd0ec76fb153b
+
+COCOAPODS: 0.39.0

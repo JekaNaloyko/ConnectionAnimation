@@ -1,0 +1,6 @@
+framework module ConnectionAnimation {
+  umbrella header "ConnectionAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}

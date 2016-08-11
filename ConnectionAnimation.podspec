@@ -29,9 +29,11 @@ Pod::Spec.new do |s|
 
   s.source_files = 'ConnectionAnimation/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'ConnectionAnimation' => ['ConnectionAnimation/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'ConnectionAnimation' => ['ConnectionAnimation/Assets/*']
+   }
+s.resources = "ConnectionAnimation/**/*.{png,jpeg,jpg,storyboard,xib}"
+
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
