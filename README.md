@@ -22,7 +22,7 @@ pod "ConnectionAnimation"
 
 ## Author
 
-Ievgen Naloiko, ievgen.naloiko@searchconcepts.ch
+Ievgen Naloiko, naloiko@gmail.com
 
 ## License
 
