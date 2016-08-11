@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ConnectionAnimation_Example' do
+  pod 'ConnectionAnimation', :path => '../'
+
+  target 'ConnectionAnimation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
