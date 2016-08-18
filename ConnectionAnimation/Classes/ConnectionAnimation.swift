@@ -17,6 +17,7 @@ public class ConnectionAnimation: UIImageView {
     override public func layoutSubviews() {
         super.layoutSubviews()
         if timer == nil {
+            self.contentMode = .ScaleAspectFit
             timer = NSTimer.scheduledTimerWithTimeInterval(0.4, target: self, selector: #selector(ConnectionAnimation.update), userInfo: nil, repeats: true)
         }
     }

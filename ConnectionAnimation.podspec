@@ -7,7 +7,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConnectionAnimation'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'The Mac navBar-like connection animation.'
 
 # This description is used to generate tags and improve search results.
