@@ -24,6 +24,7 @@ public class ConnectionAnimation: UIImageView {
     
     func update() {
         self.image =  UIImage(named: imageNamesArray[currentIndex], inBundle: NSBundle(forClass: ConnectionAnimation.self), compatibleWithTraitCollection: nil)
+        self.setNeedsDisplay()
         if currentIndex >= imageNamesArray.count - 1 {
             currentIndex = 0
         }
