@@ -8,22 +8,22 @@
 
 import UIKit
 
-public class ConnectionAnimation: UIImageView {
+open class ConnectionAnimation: UIImageView {
 
-    private var timer: NSTimer?
-    private let imageNamesArray = ["lookingforwifi1", "lookingforwifi2", "lookingforwifi3", "havewifi"]
-    private var currentIndex: Int = 0
+    fileprivate var timer: Timer?
+    fileprivate let imageNamesArray = ["lookingforwifi1", "lookingforwifi2", "lookingforwifi3", "havewifi"]
+    fileprivate var currentIndex: Int = 0
     
-    override public func layoutSubviews() {
+    override open func layoutSubviews() {
         super.layoutSubviews()
         if timer == nil {
-            self.contentMode = .ScaleAspectFit
-            timer = NSTimer.scheduledTimerWithTimeInterval(0.4, target: self, selector: #selector(ConnectionAnimation.update), userInfo: nil, repeats: true)
+            self.contentMode = .scaleAspectFit
+            timer = Timer.scheduledTimer(timeInterval: 0.4, target: self, selector: #selector(ConnectionAnimation.update), userInfo: nil, repeats: true)
         }
     }
     
     func update() {
-        self.image =  UIImage(named: imageNamesArray[currentIndex], inBundle: NSBundle(forClass: ConnectionAnimation.self), compatibleWithTraitCollection: nil)
+        self.image =  UIImage(named: imageNamesArray[currentIndex], in: Bundle(for: ConnectionAnimation.self), compatibleWith: nil)
         self.setNeedsDisplay()
         if currentIndex >= imageNamesArray.count - 1 {
             currentIndex = 0

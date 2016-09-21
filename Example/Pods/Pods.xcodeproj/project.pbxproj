@@ -1,1706 +1,748 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>064215463FE6104F2A82184E949B54DC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>10280BFAF614C084CE777290A891BCCD</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EF037A4DAC6A4B334A92F42A29E5AE5F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>10DE1947DAC0ED28F6C0A9F9BD75D546</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>120DA5971E3D7DC7D3D1672686BD74F5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1245F267A594BF394BC24165A18ADA8F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi3@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>13B04B9103016A5B33634ED94204121A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B49709934FA910094E7C232A7F78F9CA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>14544BE7AAC8727E5279D45B2E4B153C</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>13B04B9103016A5B33634ED94204121A</string>
-				<string>A265AB66A79BFEDEE70D3573C115CCF4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>14DD739321EADF4A0717C1F1AF77CF67</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi3.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>229DAE1E6B7EB49164F8F4EEBC660D20</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3C78FAB95275B450A29964E07AE44AC4</string>
-				<string>5C7E041EEBAC754814520C7793BBD3D3</string>
-				<string>32993B3D7ED6BD87B050563452117D18</string>
-				<string>7959957FD497DE9377E3DB1CB5F32FA8</string>
-				<string>120DA5971E3D7DC7D3D1672686BD74F5</string>
-				<string>064215463FE6104F2A82184E949B54DC</string>
-				<string>F4F4E59FC447CB61DE15769685D559B5</string>
-				<string>79F9968133F3A3E4C8C8C7117788FBF2</string>
-				<string>AA73D8218BD8F77D8FE586DB1E7DA6C4</string>
-				<string>5FB914AAFCBE9EE12DBD16778F160AAA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-ConnectionAnimation_Example</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-ConnectionAnimation_Example</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2A3F59159BD77D22044C3948D4D31049</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C0D276D37E417D9ABBDC8B728AA333DF</string>
-				<string>4CD960BC1A11A7272B0229DB77DB5A93</string>
-				<string>B49709934FA910094E7C232A7F78F9CA</string>
-				<string>45EA0E0A89EFC5ECC226F5DBB8C082BA</string>
-				<string>D6D5BB81BF41C0CC66AA592935E506E7</string>
-				<string>FB5506302B53DB2998346D41E1A404C5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/ConnectionAnimation</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CC33B4F99250DCC21CA6B0EBA6367BA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi2@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2CC653A07B1D31B893009115738810A4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>79F9968133F3A3E4C8C8C7117788FBF2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>552D02D5BA751AC2E8790D2811D496CA</string>
-				<string>10DE1947DAC0ED28F6C0A9F9BD75D546</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2EC77A9D55A973D71704D0B53E9F6C29</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.swift</string>
-			<key>path</key>
-			<string>ConnectionAnimation.swift</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>311BB238960765E5DD4A819D211C7AAF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D2E59468B5D4674BFA5209DD29253472</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>32993B3D7ED6BD87B050563452117D18</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3320912DC4127FB3A90ACC80AAE7D367</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AC926FDE08BF51369FF480A08575E95E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>36C988FDE1FD9E8F1F8C9FF67AACE244</key>
-		<dict>
-			<key>fileRef</key>
-			<string>91F7EDEA2446F573507B1761B4C95F0D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3C78FAB95275B450A29964E07AE44AC4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3C9BA35C7880FB645D2C8D4A9B89CC26</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>havewifi@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3CD3415CAFC44C36D5CC09AEABC10C94</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>2EC77A9D55A973D71704D0B53E9F6C29</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3E4E89230EF59BC255123B67864ACF77</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>3EBC3125618F3DF4B8EEDDDF80ACF5D2</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ConnectionAnimation.framework</string>
-			<key>path</key>
-			<string>ConnectionAnimation.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>413B41BEA5600C44C67E93C5EBE7C24B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi2@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>41483F063059B58ADBC4F28753B5263B</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>60A80C229D416BE05255B34423F98B61</string>
-				<string>413B41BEA5600C44C67E93C5EBE7C24B</string>
-				<string>2CC33B4F99250DCC21CA6B0EBA6367BA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>lookingforwifi2.imageset</string>
-			<key>path</key>
-			<string>lookingforwifi2.imageset</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4346523C84041CCB40E3B596A9FC492A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4E889298E9762A3CFC46414EA1FA8136</string>
-				<string>A642FA401F4B05656B5CFAD2F8E53559</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Assets</string>
-			<key>path</key>
-			<string>Assets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>44F498C81E73DE0B0B36CBDB331DF02A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2CC653A07B1D31B893009115738810A4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>45EA0E0A89EFC5ECC226F5DBB8C082BA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ConnectionAnimation-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4805F4563E536BDC6BAC59F21AEED381</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi3@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>497976E5F41BBD297F8B84C75A92BE4F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A3164E0ED7B6C5D7F342BC6916B74672</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4CD960BC1A11A7272B0229DB77DB5A93</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>ConnectionAnimation.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E889298E9762A3CFC46414EA1FA8136</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>ConnectionAnimationAssets.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4F1AA596AC7199DA398D71C15068C150</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>F1E05FCA9402F705474F1A0556473E72</string>
-				<string>704E5A181E11A328E66B87826EBE3C13</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>50B97E2F24D9180BD32E5E3697C38C5E</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_ConnectionAnimation_Example.framework</string>
-			<key>path</key>
-			<string>Pods_ConnectionAnimation_Example.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>53CBD149670F9925F4D3E35E1E100F46</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4805F4563E536BDC6BAC59F21AEED381</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>552D02D5BA751AC2E8790D2811D496CA</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>57E5BCBD21F756ACFC95A88AEF6A3E07</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3E4E89230EF59BC255123B67864ACF77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>58776387151D8D51B745B79D94462FC8</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4346523C84041CCB40E3B596A9FC492A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ConnectionAnimation</string>
-			<key>path</key>
-			<string>ConnectionAnimation</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5C7E041EEBAC754814520C7793BBD3D3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5FB914AAFCBE9EE12DBD16778F160AAA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>60A80C229D416BE05255B34423F98B61</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi2.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>61AB5E742027A6ABF48AC55FF5C785CE</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>B860B6750B7A89D9CBBC1A055DA73CD1</string>
-			<key>buildPhases</key>
-			<array>
-				<string>14544BE7AAC8727E5279D45B2E4B153C</string>
-				<string>A8F2B8A1F0780B51B44BA2E34AD8BFCB</string>
-				<string>7ABAE6CBF476DFCA864761ADFE1F6B86</string>
-				<string>10280BFAF614C084CE777290A891BCCD</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>F4FE96A6C0C3B3E4F590BA02E755100D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>ConnectionAnimation</string>
-			<key>productName</key>
-			<string>ConnectionAnimation</string>
-			<key>productReference</key>
-			<string>3EBC3125618F3DF4B8EEDDDF80ACF5D2</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>683E869BC481614B17C717BE804C501D</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>F313C31B93ADC717BDF1B6245E11D459</string>
-			<key>remoteInfo</key>
-			<string>ConnectionAnimation-ConnectionAnimation</string>
-		</dict>
-		<key>69A1520055C23EDCBA9B9DB4DE776AD0</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>AA73D8218BD8F77D8FE586DB1E7DA6C4</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ConnectionAnimation_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ConnectionAnimation_Example/Pods-ConnectionAnimation_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ConnectionAnimation_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>6B55E041982B24B80263E7EBE64E4227</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>ADA820A5A55206EAD38883AD54F38E51</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>704E5A181E11A328E66B87826EBE3C13</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4CD960BC1A11A7272B0229DB77DB5A93</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>ConnectionAnimation</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>760EDC1517C2AF81BDB526CCFDDF56F0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1245F267A594BF394BC24165A18ADA8F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>7959957FD497DE9377E3DB1CB5F32FA8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>79F9968133F3A3E4C8C8C7117788FBF2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7ABAE6CBF476DFCA864761ADFE1F6B86</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>E8F3727EFE1F94A33D90C3BD8B8CA070</string>
-				<string>36C988FDE1FD9E8F1F8C9FF67AACE244</string>
-				<string>D835BC14485F6E3FE75D28E982CB15BA</string>
-				<string>B5329E7C09A788B88A132EBBD4A7AC68</string>
-				<string>497976E5F41BBD297F8B84C75A92BE4F</string>
-				<string>3320912DC4127FB3A90ACC80AAE7D367</string>
-				<string>311BB238960765E5DD4A819D211C7AAF</string>
-				<string>EF327D38F2B294212011D03B08FED120</string>
-				<string>F585E8EEF1004802B08EAE8F44690380</string>
-				<string>A5F1D50DC86C6D9946521D51F8150BF5</string>
-				<string>9436CC34B3831A37E3F685C57E4BEF0A</string>
-				<string>760EDC1517C2AF81BDB526CCFDDF56F0</string>
-				<string>53CBD149670F9925F4D3E35E1E100F46</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7C5947E85EF3717502F7A66B72B4C834</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A3164E0ED7B6C5D7F342BC6916B74672</string>
-				<string>AC926FDE08BF51369FF480A08575E95E</string>
-				<string>D2E59468B5D4674BFA5209DD29253472</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>lookingforwifi1.imageset</string>
-			<key>path</key>
-			<string>lookingforwifi1.imageset</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>6B55E041982B24B80263E7EBE64E4227</string>
-				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>7EC625E3B8581AC0BF4BF33EC676628A</string>
-				<string>8F522F5E2E9B081EB06B195140541B61</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7EC625E3B8581AC0BF4BF33EC676628A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F8F648AB8B5217F1BBACF73E65EB378D</string>
-				<string>3EBC3125618F3DF4B8EEDDDF80ACF5D2</string>
-				<string>50B97E2F24D9180BD32E5E3697C38C5E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7F701C5798560E02B0CBBD58B05AF49E</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4CD960BC1A11A7272B0229DB77DB5A93</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/ConnectionAnimation/ConnectionAnimation-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/ConnectionAnimation/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/ConnectionAnimation/ConnectionAnimation.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>ConnectionAnimation</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>8F522F5E2E9B081EB06B195140541B61</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>229DAE1E6B7EB49164F8F4EEBC660D20</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>91F7EDEA2446F573507B1761B4C95F0D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>havewifi.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9436CC34B3831A37E3F685C57E4BEF0A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>14DD739321EADF4A0717C1F1AF77CF67</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9EB553613C916016F686BCFAB3A1F7F1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>havewifi@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A04F2130CDD9D3971A4A87AEA3BD7282</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>CCCC9E36AC85E53B47DAB4EB786130DF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>DC11C5427973A5398D4C9904ABC70E59</string>
-				<string>BADC27B90DA0601E53338FF61469D710</string>
-				<string>44F498C81E73DE0B0B36CBDB331DF02A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>B7EC973A4C3612B4C9E4B64A04B56463</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-ConnectionAnimation_Example</string>
-			<key>productName</key>
-			<string>Pods-ConnectionAnimation_Example</string>
-			<key>productReference</key>
-			<string>50B97E2F24D9180BD32E5E3697C38C5E</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>A265AB66A79BFEDEE70D3573C115CCF4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2EC77A9D55A973D71704D0B53E9F6C29</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A3164E0ED7B6C5D7F342BC6916B74672</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi1.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A551AFE5D139F6E94AC3118A351A0BC4</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>61AB5E742027A6ABF48AC55FF5C785CE</string>
-			<key>remoteInfo</key>
-			<string>ConnectionAnimation</string>
-		</dict>
-		<key>A5F1D50DC86C6D9946521D51F8150BF5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2CC33B4F99250DCC21CA6B0EBA6367BA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A642FA401F4B05656B5CFAD2F8E53559</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>B4144E0DD5AF7B62BADA8E489C446D8A</string>
-				<string>7C5947E85EF3717502F7A66B72B4C834</string>
-				<string>41483F063059B58ADBC4F28753B5263B</string>
-				<string>FBE614BE4F7569EAD701AE69DA869EE9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ConnectionAnimationAssets.xcassets</string>
-			<key>path</key>
-			<string>ConnectionAnimationAssets.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A8F2B8A1F0780B51B44BA2E34AD8BFCB</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>57E5BCBD21F756ACFC95A88AEF6A3E07</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>AA73D8218BD8F77D8FE586DB1E7DA6C4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AC926FDE08BF51369FF480A08575E95E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi1@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ADA820A5A55206EAD38883AD54F38E51</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E76E0786BA3E415B1536126D0F2B9905</string>
-				<string>B13B77797EBBD4C73C7C1D10FD35C02D</string>
-				<string>2A3F59159BD77D22044C3948D4D31049</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ConnectionAnimation</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AF3894456755668522CFDC63B1DDC80A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B13B77797EBBD4C73C7C1D10FD35C02D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>58776387151D8D51B745B79D94462FC8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B391B63B43C1B1422FB60845652FE4CF</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4CD960BC1A11A7272B0229DB77DB5A93</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/ConnectionAnimation/ConnectionAnimation-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/ConnectionAnimation/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/ConnectionAnimation/ConnectionAnimation.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>ConnectionAnimation</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>SWIFT_OPTIMIZATION_LEVEL</key>
-				<string>-Onone</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>B4144E0DD5AF7B62BADA8E489C446D8A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>91F7EDEA2446F573507B1761B4C95F0D</string>
-				<string>3C9BA35C7880FB645D2C8D4A9B89CC26</string>
-				<string>9EB553613C916016F686BCFAB3A1F7F1</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>havewifi.imageset</string>
-			<key>path</key>
-			<string>havewifi.imageset</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B49709934FA910094E7C232A7F78F9CA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ConnectionAnimation-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B5329E7C09A788B88A132EBBD4A7AC68</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9EB553613C916016F686BCFAB3A1F7F1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B5716117CFF1C91F9DD2CED456B8C9B4</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>F8C5CF94B2D5BE17DA9C13DFA32658C5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>B7EC973A4C3612B4C9E4B64A04B56463</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>ConnectionAnimation</string>
-			<key>target</key>
-			<string>61AB5E742027A6ABF48AC55FF5C785CE</string>
-			<key>targetProxy</key>
-			<string>A551AFE5D139F6E94AC3118A351A0BC4</string>
-		</dict>
-		<key>B860B6750B7A89D9CBBC1A055DA73CD1</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>B391B63B43C1B1422FB60845652FE4CF</string>
-				<string>7F701C5798560E02B0CBBD58B05AF49E</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BADC27B90DA0601E53338FF61469D710</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>D876C00BE331F573ACB2F0F2B112D769</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>BC3CA7F9E30CC8F7E2DD044DD34432FC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BF6342C8B29F4CEEA088EFF7AB4DE362</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BF6342C8B29F4CEEA088EFF7AB4DE362</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3E4E89230EF59BC255123B67864ACF77</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C0D276D37E417D9ABBDC8B728AA333DF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>ConnectionAnimation.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CCCC9E36AC85E53B47DAB4EB786130DF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>69A1520055C23EDCBA9B9DB4DE776AD0</string>
-				<string>D143E86F154D25B6F673A95BD7497D01</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>CD38E487EBAA9926F6F73CFB524D51CF</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>D143E86F154D25B6F673A95BD7497D01</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>5FB914AAFCBE9EE12DBD16778F160AAA</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-ConnectionAnimation_Example/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.3</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-ConnectionAnimation_Example/Pods-ConnectionAnimation_Example.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_ConnectionAnimation_Example</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>D2E59468B5D4674BFA5209DD29253472</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>lookingforwifi1@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0700</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>7EC625E3B8581AC0BF4BF33EC676628A</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>61AB5E742027A6ABF48AC55FF5C785CE</string>
-				<string>F313C31B93ADC717BDF1B6245E11D459</string>
-				<string>A04F2130CDD9D3971A4A87AEA3BD7282</string>
-			</array>
-		</dict>
-		<key>D6D5BB81BF41C0CC66AA592935E506E7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ConnectionAnimation-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D835BC14485F6E3FE75D28E982CB15BA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3C9BA35C7880FB645D2C8D4A9B89CC26</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D876C00BE331F573ACB2F0F2B112D769</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3E4E89230EF59BC255123B67864ACF77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DC11C5427973A5398D4C9904ABC70E59</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>FA74D2B0E87E1A2D9A69565B58750E67</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>E76E0786BA3E415B1536126D0F2B9905</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3CD3415CAFC44C36D5CC09AEABC10C94</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ConnectionAnimation</string>
-			<key>path</key>
-			<string>ConnectionAnimation</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E8F3727EFE1F94A33D90C3BD8B8CA070</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F8F648AB8B5217F1BBACF73E65EB378D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EF037A4DAC6A4B334A92F42A29E5AE5F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D6D5BB81BF41C0CC66AA592935E506E7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>EF327D38F2B294212011D03B08FED120</key>
-		<dict>
-			<key>fileRef</key>
-			<string>60A80C229D416BE05255B34423F98B61</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F1E05FCA9402F705474F1A0556473E72</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>4CD960BC1A11A7272B0229DB77DB5A93</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>ConnectionAnimation</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>F313C31B93ADC717BDF1B6245E11D459</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>4F1AA596AC7199DA398D71C15068C150</string>
-			<key>buildPhases</key>
-			<array>
-				<string>AF3894456755668522CFDC63B1DDC80A</string>
-				<string>CD38E487EBAA9926F6F73CFB524D51CF</string>
-				<string>B5716117CFF1C91F9DD2CED456B8C9B4</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>ConnectionAnimation-ConnectionAnimation</string>
-			<key>productName</key>
-			<string>ConnectionAnimation-ConnectionAnimation</string>
-			<key>productReference</key>
-			<string>F8F648AB8B5217F1BBACF73E65EB378D</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>F4F4E59FC447CB61DE15769685D559B5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-ConnectionAnimation_Example-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F4FE96A6C0C3B3E4F590BA02E755100D</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>ConnectionAnimation-ConnectionAnimation</string>
-			<key>target</key>
-			<string>F313C31B93ADC717BDF1B6245E11D459</string>
-			<key>targetProxy</key>
-			<string>683E869BC481614B17C717BE804C501D</string>
-		</dict>
-		<key>F585E8EEF1004802B08EAE8F44690380</key>
-		<dict>
-			<key>fileRef</key>
-			<string>413B41BEA5600C44C67E93C5EBE7C24B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F8C5CF94B2D5BE17DA9C13DFA32658C5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4E889298E9762A3CFC46414EA1FA8136</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F8F648AB8B5217F1BBACF73E65EB378D</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ConnectionAnimation.bundle</string>
-			<key>path</key>
-			<string>ConnectionAnimation.bundle</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>FA74D2B0E87E1A2D9A69565B58750E67</key>
-		<dict>
-			<key>fileRef</key>
-			<string>120DA5971E3D7DC7D3D1672686BD74F5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FB5506302B53DB2998346D41E1A404C5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FBE614BE4F7569EAD701AE69DA869EE9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>14DD739321EADF4A0717C1F1AF77CF67</string>
-				<string>1245F267A594BF394BC24165A18ADA8F</string>
-				<string>4805F4563E536BDC6BAC59F21AEED381</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>lookingforwifi3.imageset</string>
-			<key>path</key>
-			<string>lookingforwifi3.imageset</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		13B04B9103016A5B33634ED94204121A /* ConnectionAnimation-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B49709934FA910094E7C232A7F78F9CA /* ConnectionAnimation-dummy.m */; };
+		2CC653A07B1D31B893009115738810A4 /* Pods-ConnectionAnimation_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 79F9968133F3A3E4C8C8C7117788FBF2 /* Pods-ConnectionAnimation_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		311BB238960765E5DD4A819D211C7AAF /* lookingforwifi1@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D2E59468B5D4674BFA5209DD29253472 /* lookingforwifi1@3x.png */; };
+		3320912DC4127FB3A90ACC80AAE7D367 /* lookingforwifi1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AC926FDE08BF51369FF480A08575E95E /* lookingforwifi1@2x.png */; };
+		36C988FDE1FD9E8F1F8C9FF67AACE244 /* havewifi.png in Resources */ = {isa = PBXBuildFile; fileRef = 91F7EDEA2446F573507B1761B4C95F0D /* havewifi.png */; };
+		497976E5F41BBD297F8B84C75A92BE4F /* lookingforwifi1.png in Resources */ = {isa = PBXBuildFile; fileRef = A3164E0ED7B6C5D7F342BC6916B74672 /* lookingforwifi1.png */; };
+		53CBD149670F9925F4D3E35E1E100F46 /* lookingforwifi3@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4805F4563E536BDC6BAC59F21AEED381 /* lookingforwifi3@3x.png */; };
+		57E5BCBD21F756ACFC95A88AEF6A3E07 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		760EDC1517C2AF81BDB526CCFDDF56F0 /* lookingforwifi3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1245F267A594BF394BC24165A18ADA8F /* lookingforwifi3@2x.png */; };
+		9436CC34B3831A37E3F685C57E4BEF0A /* lookingforwifi3.png in Resources */ = {isa = PBXBuildFile; fileRef = 14DD739321EADF4A0717C1F1AF77CF67 /* lookingforwifi3.png */; };
+		A265AB66A79BFEDEE70D3573C115CCF4 /* ConnectionAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC77A9D55A973D71704D0B53E9F6C29 /* ConnectionAnimation.swift */; };
+		A5F1D50DC86C6D9946521D51F8150BF5 /* lookingforwifi2@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2CC33B4F99250DCC21CA6B0EBA6367BA /* lookingforwifi2@3x.png */; };
+		B5329E7C09A788B88A132EBBD4A7AC68 /* havewifi@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9EB553613C916016F686BCFAB3A1F7F1 /* havewifi@3x.png */; };
+		D835BC14485F6E3FE75D28E982CB15BA /* havewifi@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C9BA35C7880FB645D2C8D4A9B89CC26 /* havewifi@2x.png */; };
+		D876C00BE331F573ACB2F0F2B112D769 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		E8F3727EFE1F94A33D90C3BD8B8CA070 /* ConnectionAnimation.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F8F648AB8B5217F1BBACF73E65EB378D /* ConnectionAnimation.bundle */; };
+		EF037A4DAC6A4B334A92F42A29E5AE5F /* ConnectionAnimation-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D6D5BB81BF41C0CC66AA592935E506E7 /* ConnectionAnimation-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EF327D38F2B294212011D03B08FED120 /* lookingforwifi2.png in Resources */ = {isa = PBXBuildFile; fileRef = 60A80C229D416BE05255B34423F98B61 /* lookingforwifi2.png */; };
+		F585E8EEF1004802B08EAE8F44690380 /* lookingforwifi2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 413B41BEA5600C44C67E93C5EBE7C24B /* lookingforwifi2@2x.png */; };
+		F8C5CF94B2D5BE17DA9C13DFA32658C5 /* ConnectionAnimationAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E889298E9762A3CFC46414EA1FA8136 /* ConnectionAnimationAssets.xcassets */; };
+		FA74D2B0E87E1A2D9A69565B58750E67 /* Pods-ConnectionAnimation_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 120DA5971E3D7DC7D3D1672686BD74F5 /* Pods-ConnectionAnimation_Example-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		683E869BC481614B17C717BE804C501D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F313C31B93ADC717BDF1B6245E11D459;
+			remoteInfo = "ConnectionAnimation-ConnectionAnimation";
+		};
+		A551AFE5D139F6E94AC3118A351A0BC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 61AB5E742027A6ABF48AC55FF5C785CE;
+			remoteInfo = ConnectionAnimation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		064215463FE6104F2A82184E949B54DC /* Pods-ConnectionAnimation_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConnectionAnimation_Example-frameworks.sh"; sourceTree = "<group>"; };
+		120DA5971E3D7DC7D3D1672686BD74F5 /* Pods-ConnectionAnimation_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ConnectionAnimation_Example-dummy.m"; sourceTree = "<group>"; };
+		1245F267A594BF394BC24165A18ADA8F /* lookingforwifi3@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi3@2x.png"; sourceTree = "<group>"; };
+		14DD739321EADF4A0717C1F1AF77CF67 /* lookingforwifi3.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = lookingforwifi3.png; sourceTree = "<group>"; };
+		2CC33B4F99250DCC21CA6B0EBA6367BA /* lookingforwifi2@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi2@3x.png"; sourceTree = "<group>"; };
+		2EC77A9D55A973D71704D0B53E9F6C29 /* ConnectionAnimation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ConnectionAnimation.swift; sourceTree = "<group>"; };
+		32993B3D7ED6BD87B050563452117D18 /* Pods-ConnectionAnimation_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ConnectionAnimation_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3C78FAB95275B450A29964E07AE44AC4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C9BA35C7880FB645D2C8D4A9B89CC26 /* havewifi@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "havewifi@2x.png"; sourceTree = "<group>"; };
+		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3EBC3125618F3DF4B8EEDDDF80ACF5D2 /* ConnectionAnimation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ConnectionAnimation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		413B41BEA5600C44C67E93C5EBE7C24B /* lookingforwifi2@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi2@2x.png"; sourceTree = "<group>"; };
+		45EA0E0A89EFC5ECC226F5DBB8C082BA /* ConnectionAnimation-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConnectionAnimation-prefix.pch"; sourceTree = "<group>"; };
+		4805F4563E536BDC6BAC59F21AEED381 /* lookingforwifi3@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi3@3x.png"; sourceTree = "<group>"; };
+		4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ConnectionAnimation.xcconfig; sourceTree = "<group>"; };
+		4E889298E9762A3CFC46414EA1FA8136 /* ConnectionAnimationAssets.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; path = ConnectionAnimationAssets.xcassets; sourceTree = "<group>"; };
+		50B97E2F24D9180BD32E5E3697C38C5E /* Pods_ConnectionAnimation_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ConnectionAnimation_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C7E041EEBAC754814520C7793BBD3D3 /* Pods-ConnectionAnimation_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ConnectionAnimation_Example.modulemap"; sourceTree = "<group>"; };
+		5FB914AAFCBE9EE12DBD16778F160AAA /* Pods-ConnectionAnimation_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConnectionAnimation_Example.release.xcconfig"; sourceTree = "<group>"; };
+		60A80C229D416BE05255B34423F98B61 /* lookingforwifi2.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = lookingforwifi2.png; sourceTree = "<group>"; };
+		7959957FD497DE9377E3DB1CB5F32FA8 /* Pods-ConnectionAnimation_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ConnectionAnimation_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		79F9968133F3A3E4C8C8C7117788FBF2 /* Pods-ConnectionAnimation_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ConnectionAnimation_Example-umbrella.h"; sourceTree = "<group>"; };
+		91F7EDEA2446F573507B1761B4C95F0D /* havewifi.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = havewifi.png; sourceTree = "<group>"; };
+		9EB553613C916016F686BCFAB3A1F7F1 /* havewifi@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "havewifi@3x.png"; sourceTree = "<group>"; };
+		A3164E0ED7B6C5D7F342BC6916B74672 /* lookingforwifi1.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = lookingforwifi1.png; sourceTree = "<group>"; };
+		AA73D8218BD8F77D8FE586DB1E7DA6C4 /* Pods-ConnectionAnimation_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ConnectionAnimation_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		AC926FDE08BF51369FF480A08575E95E /* lookingforwifi1@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi1@2x.png"; sourceTree = "<group>"; };
+		B49709934FA910094E7C232A7F78F9CA /* ConnectionAnimation-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ConnectionAnimation-dummy.m"; sourceTree = "<group>"; };
+		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C0D276D37E417D9ABBDC8B728AA333DF /* ConnectionAnimation.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = ConnectionAnimation.modulemap; sourceTree = "<group>"; };
+		D2E59468B5D4674BFA5209DD29253472 /* lookingforwifi1@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "lookingforwifi1@3x.png"; sourceTree = "<group>"; };
+		D6D5BB81BF41C0CC66AA592935E506E7 /* ConnectionAnimation-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ConnectionAnimation-umbrella.h"; sourceTree = "<group>"; };
+		F4F4E59FC447CB61DE15769685D559B5 /* Pods-ConnectionAnimation_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ConnectionAnimation_Example-resources.sh"; sourceTree = "<group>"; };
+		F8F648AB8B5217F1BBACF73E65EB378D /* ConnectionAnimation.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConnectionAnimation.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB5506302B53DB2998346D41E1A404C5 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A8F2B8A1F0780B51B44BA2E34AD8BFCB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				57E5BCBD21F756ACFC95A88AEF6A3E07 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BADC27B90DA0601E53338FF61469D710 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D876C00BE331F573ACB2F0F2B112D769 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD38E487EBAA9926F6F73CFB524D51CF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		229DAE1E6B7EB49164F8F4EEBC660D20 /* Pods-ConnectionAnimation_Example */ = {
+			isa = PBXGroup;
+			children = (
+				3C78FAB95275B450A29964E07AE44AC4 /* Info.plist */,
+				5C7E041EEBAC754814520C7793BBD3D3 /* Pods-ConnectionAnimation_Example.modulemap */,
+				32993B3D7ED6BD87B050563452117D18 /* Pods-ConnectionAnimation_Example-acknowledgements.markdown */,
+				7959957FD497DE9377E3DB1CB5F32FA8 /* Pods-ConnectionAnimation_Example-acknowledgements.plist */,
+				120DA5971E3D7DC7D3D1672686BD74F5 /* Pods-ConnectionAnimation_Example-dummy.m */,
+				064215463FE6104F2A82184E949B54DC /* Pods-ConnectionAnimation_Example-frameworks.sh */,
+				F4F4E59FC447CB61DE15769685D559B5 /* Pods-ConnectionAnimation_Example-resources.sh */,
+				79F9968133F3A3E4C8C8C7117788FBF2 /* Pods-ConnectionAnimation_Example-umbrella.h */,
+				AA73D8218BD8F77D8FE586DB1E7DA6C4 /* Pods-ConnectionAnimation_Example.debug.xcconfig */,
+				5FB914AAFCBE9EE12DBD16778F160AAA /* Pods-ConnectionAnimation_Example.release.xcconfig */,
+			);
+			name = "Pods-ConnectionAnimation_Example";
+			path = "Target Support Files/Pods-ConnectionAnimation_Example";
+			sourceTree = "<group>";
+		};
+		2A3F59159BD77D22044C3948D4D31049 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C0D276D37E417D9ABBDC8B728AA333DF /* ConnectionAnimation.modulemap */,
+				4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */,
+				B49709934FA910094E7C232A7F78F9CA /* ConnectionAnimation-dummy.m */,
+				45EA0E0A89EFC5ECC226F5DBB8C082BA /* ConnectionAnimation-prefix.pch */,
+				D6D5BB81BF41C0CC66AA592935E506E7 /* ConnectionAnimation-umbrella.h */,
+				FB5506302B53DB2998346D41E1A404C5 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/ConnectionAnimation";
+			sourceTree = "<group>";
+		};
+		3CD3415CAFC44C36D5CC09AEABC10C94 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				2EC77A9D55A973D71704D0B53E9F6C29 /* ConnectionAnimation.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		41483F063059B58ADBC4F28753B5263B /* lookingforwifi2.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				60A80C229D416BE05255B34423F98B61 /* lookingforwifi2.png */,
+				413B41BEA5600C44C67E93C5EBE7C24B /* lookingforwifi2@2x.png */,
+				2CC33B4F99250DCC21CA6B0EBA6367BA /* lookingforwifi2@3x.png */,
+			);
+			path = lookingforwifi2.imageset;
+			sourceTree = "<group>";
+		};
+		4346523C84041CCB40E3B596A9FC492A /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				4E889298E9762A3CFC46414EA1FA8136 /* ConnectionAnimationAssets.xcassets */,
+				A642FA401F4B05656B5CFAD2F8E53559 /* ConnectionAnimationAssets.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		58776387151D8D51B745B79D94462FC8 /* ConnectionAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				4346523C84041CCB40E3B596A9FC492A /* Assets */,
+			);
+			path = ConnectionAnimation;
+			sourceTree = "<group>";
+		};
+		6B55E041982B24B80263E7EBE64E4227 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				ADA820A5A55206EAD38883AD54F38E51 /* ConnectionAnimation */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		7C5947E85EF3717502F7A66B72B4C834 /* lookingforwifi1.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				A3164E0ED7B6C5D7F342BC6916B74672 /* lookingforwifi1.png */,
+				AC926FDE08BF51369FF480A08575E95E /* lookingforwifi1@2x.png */,
+				D2E59468B5D4674BFA5209DD29253472 /* lookingforwifi1@3x.png */,
+			);
+			path = lookingforwifi1.imageset;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
+				6B55E041982B24B80263E7EBE64E4227 /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				7EC625E3B8581AC0BF4BF33EC676628A /* Products */,
+				8F522F5E2E9B081EB06B195140541B61 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		7EC625E3B8581AC0BF4BF33EC676628A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F8F648AB8B5217F1BBACF73E65EB378D /* ConnectionAnimation.bundle */,
+				3EBC3125618F3DF4B8EEDDDF80ACF5D2 /* ConnectionAnimation.framework */,
+				50B97E2F24D9180BD32E5E3697C38C5E /* Pods_ConnectionAnimation_Example.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8F522F5E2E9B081EB06B195140541B61 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				229DAE1E6B7EB49164F8F4EEBC660D20 /* Pods-ConnectionAnimation_Example */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		A642FA401F4B05656B5CFAD2F8E53559 /* ConnectionAnimationAssets.xcassets */ = {
+			isa = PBXGroup;
+			children = (
+				B4144E0DD5AF7B62BADA8E489C446D8A /* havewifi.imageset */,
+				7C5947E85EF3717502F7A66B72B4C834 /* lookingforwifi1.imageset */,
+				41483F063059B58ADBC4F28753B5263B /* lookingforwifi2.imageset */,
+				FBE614BE4F7569EAD701AE69DA869EE9 /* lookingforwifi3.imageset */,
+			);
+			path = ConnectionAnimationAssets.xcassets;
+			sourceTree = "<group>";
+		};
+		ADA820A5A55206EAD38883AD54F38E51 /* ConnectionAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				E76E0786BA3E415B1536126D0F2B9905 /* ConnectionAnimation */,
+				B13B77797EBBD4C73C7C1D10FD35C02D /* Resources */,
+				2A3F59159BD77D22044C3948D4D31049 /* Support Files */,
+			);
+			name = ConnectionAnimation;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		B13B77797EBBD4C73C7C1D10FD35C02D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				58776387151D8D51B745B79D94462FC8 /* ConnectionAnimation */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		B4144E0DD5AF7B62BADA8E489C446D8A /* havewifi.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				91F7EDEA2446F573507B1761B4C95F0D /* havewifi.png */,
+				3C9BA35C7880FB645D2C8D4A9B89CC26 /* havewifi@2x.png */,
+				9EB553613C916016F686BCFAB3A1F7F1 /* havewifi@3x.png */,
+			);
+			path = havewifi.imageset;
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		E76E0786BA3E415B1536126D0F2B9905 /* ConnectionAnimation */ = {
+			isa = PBXGroup;
+			children = (
+				3CD3415CAFC44C36D5CC09AEABC10C94 /* Classes */,
+			);
+			path = ConnectionAnimation;
+			sourceTree = "<group>";
+		};
+		FBE614BE4F7569EAD701AE69DA869EE9 /* lookingforwifi3.imageset */ = {
+			isa = PBXGroup;
+			children = (
+				14DD739321EADF4A0717C1F1AF77CF67 /* lookingforwifi3.png */,
+				1245F267A594BF394BC24165A18ADA8F /* lookingforwifi3@2x.png */,
+				4805F4563E536BDC6BAC59F21AEED381 /* lookingforwifi3@3x.png */,
+			);
+			path = lookingforwifi3.imageset;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		10280BFAF614C084CE777290A891BCCD /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF037A4DAC6A4B334A92F42A29E5AE5F /* ConnectionAnimation-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44F498C81E73DE0B0B36CBDB331DF02A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CC653A07B1D31B893009115738810A4 /* Pods-ConnectionAnimation_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		61AB5E742027A6ABF48AC55FF5C785CE /* ConnectionAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B860B6750B7A89D9CBBC1A055DA73CD1 /* Build configuration list for PBXNativeTarget "ConnectionAnimation" */;
+			buildPhases = (
+				14544BE7AAC8727E5279D45B2E4B153C /* Sources */,
+				A8F2B8A1F0780B51B44BA2E34AD8BFCB /* Frameworks */,
+				7ABAE6CBF476DFCA864761ADFE1F6B86 /* Resources */,
+				10280BFAF614C084CE777290A891BCCD /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F4FE96A6C0C3B3E4F590BA02E755100D /* PBXTargetDependency */,
+			);
+			name = ConnectionAnimation;
+			productName = ConnectionAnimation;
+			productReference = 3EBC3125618F3DF4B8EEDDDF80ACF5D2 /* ConnectionAnimation.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		A04F2130CDD9D3971A4A87AEA3BD7282 /* Pods-ConnectionAnimation_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CCCC9E36AC85E53B47DAB4EB786130DF /* Build configuration list for PBXNativeTarget "Pods-ConnectionAnimation_Example" */;
+			buildPhases = (
+				DC11C5427973A5398D4C9904ABC70E59 /* Sources */,
+				BADC27B90DA0601E53338FF61469D710 /* Frameworks */,
+				44F498C81E73DE0B0B36CBDB331DF02A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B7EC973A4C3612B4C9E4B64A04B56463 /* PBXTargetDependency */,
+			);
+			name = "Pods-ConnectionAnimation_Example";
+			productName = "Pods-ConnectionAnimation_Example";
+			productReference = 50B97E2F24D9180BD32E5E3697C38C5E /* Pods_ConnectionAnimation_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		F313C31B93ADC717BDF1B6245E11D459 /* ConnectionAnimation-ConnectionAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4F1AA596AC7199DA398D71C15068C150 /* Build configuration list for PBXNativeTarget "ConnectionAnimation-ConnectionAnimation" */;
+			buildPhases = (
+				AF3894456755668522CFDC63B1DDC80A /* Sources */,
+				CD38E487EBAA9926F6F73CFB524D51CF /* Frameworks */,
+				B5716117CFF1C91F9DD2CED456B8C9B4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ConnectionAnimation-ConnectionAnimation";
+			productName = "ConnectionAnimation-ConnectionAnimation";
+			productReference = F8F648AB8B5217F1BBACF73E65EB378D /* ConnectionAnimation.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					61AB5E742027A6ABF48AC55FF5C785CE = {
+						LastSwiftMigration = 0800;
+					};
+					A04F2130CDD9D3971A4A87AEA3BD7282 = {
+						LastSwiftMigration = 0800;
+					};
+				};
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 7EC625E3B8581AC0BF4BF33EC676628A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				61AB5E742027A6ABF48AC55FF5C785CE /* ConnectionAnimation */,
+				F313C31B93ADC717BDF1B6245E11D459 /* ConnectionAnimation-ConnectionAnimation */,
+				A04F2130CDD9D3971A4A87AEA3BD7282 /* Pods-ConnectionAnimation_Example */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7ABAE6CBF476DFCA864761ADFE1F6B86 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E8F3727EFE1F94A33D90C3BD8B8CA070 /* ConnectionAnimation.bundle in Resources */,
+				36C988FDE1FD9E8F1F8C9FF67AACE244 /* havewifi.png in Resources */,
+				D835BC14485F6E3FE75D28E982CB15BA /* havewifi@2x.png in Resources */,
+				B5329E7C09A788B88A132EBBD4A7AC68 /* havewifi@3x.png in Resources */,
+				497976E5F41BBD297F8B84C75A92BE4F /* lookingforwifi1.png in Resources */,
+				3320912DC4127FB3A90ACC80AAE7D367 /* lookingforwifi1@2x.png in Resources */,
+				311BB238960765E5DD4A819D211C7AAF /* lookingforwifi1@3x.png in Resources */,
+				EF327D38F2B294212011D03B08FED120 /* lookingforwifi2.png in Resources */,
+				F585E8EEF1004802B08EAE8F44690380 /* lookingforwifi2@2x.png in Resources */,
+				A5F1D50DC86C6D9946521D51F8150BF5 /* lookingforwifi2@3x.png in Resources */,
+				9436CC34B3831A37E3F685C57E4BEF0A /* lookingforwifi3.png in Resources */,
+				760EDC1517C2AF81BDB526CCFDDF56F0 /* lookingforwifi3@2x.png in Resources */,
+				53CBD149670F9925F4D3E35E1E100F46 /* lookingforwifi3@3x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B5716117CFF1C91F9DD2CED456B8C9B4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F8C5CF94B2D5BE17DA9C13DFA32658C5 /* ConnectionAnimationAssets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14544BE7AAC8727E5279D45B2E4B153C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				13B04B9103016A5B33634ED94204121A /* ConnectionAnimation-dummy.m in Sources */,
+				A265AB66A79BFEDEE70D3573C115CCF4 /* ConnectionAnimation.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AF3894456755668522CFDC63B1DDC80A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DC11C5427973A5398D4C9904ABC70E59 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA74D2B0E87E1A2D9A69565B58750E67 /* Pods-ConnectionAnimation_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B7EC973A4C3612B4C9E4B64A04B56463 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ConnectionAnimation;
+			target = 61AB5E742027A6ABF48AC55FF5C785CE /* ConnectionAnimation */;
+			targetProxy = A551AFE5D139F6E94AC3118A351A0BC4 /* PBXContainerItemProxy */;
+		};
+		F4FE96A6C0C3B3E4F590BA02E755100D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "ConnectionAnimation-ConnectionAnimation";
+			target = F313C31B93ADC717BDF1B6245E11D459 /* ConnectionAnimation-ConnectionAnimation */;
+			targetProxy = 683E869BC481614B17C717BE804C501D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		552D02D5BA751AC2E8790D2811D496CA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		69A1520055C23EDCBA9B9DB4DE776AD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AA73D8218BD8F77D8FE586DB1E7DA6C4 /* Pods-ConnectionAnimation_Example.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ConnectionAnimation_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ConnectionAnimation_Example/Pods-ConnectionAnimation_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_ConnectionAnimation_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		704E5A181E11A328E66B87826EBE3C13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = ConnectionAnimation;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		7F701C5798560E02B0CBBD58B05AF49E /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ConnectionAnimation/ConnectionAnimation-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ConnectionAnimation/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ConnectionAnimation/ConnectionAnimation.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = ConnectionAnimation;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B391B63B43C1B1422FB60845652FE4CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ConnectionAnimation/ConnectionAnimation-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ConnectionAnimation/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ConnectionAnimation/ConnectionAnimation.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = ConnectionAnimation;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D143E86F154D25B6F673A95BD7497D01 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5FB914AAFCBE9EE12DBD16778F160AAA /* Pods-ConnectionAnimation_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-ConnectionAnimation_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-ConnectionAnimation_Example/Pods-ConnectionAnimation_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_ConnectionAnimation_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		F1E05FCA9402F705474F1A0556473E72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CD960BC1A11A7272B0229DB77DB5A93 /* ConnectionAnimation.xcconfig */;
+			buildSettings = {
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				PRODUCT_NAME = ConnectionAnimation;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				552D02D5BA751AC2E8790D2811D496CA /* Debug */,
+				10DE1947DAC0ED28F6C0A9F9BD75D546 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4F1AA596AC7199DA398D71C15068C150 /* Build configuration list for PBXNativeTarget "ConnectionAnimation-ConnectionAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F1E05FCA9402F705474F1A0556473E72 /* Debug */,
+				704E5A181E11A328E66B87826EBE3C13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B860B6750B7A89D9CBBC1A055DA73CD1 /* Build configuration list for PBXNativeTarget "ConnectionAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B391B63B43C1B1422FB60845652FE4CF /* Debug */,
+				7F701C5798560E02B0CBBD58B05AF49E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CCCC9E36AC85E53B47DAB4EB786130DF /* Build configuration list for PBXNativeTarget "Pods-ConnectionAnimation_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				69A1520055C23EDCBA9B9DB4DE776AD0 /* Debug */,
+				D143E86F154D25B6F673A95BD7497D01 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
