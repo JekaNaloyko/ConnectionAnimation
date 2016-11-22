@@ -6,13 +6,14 @@
 //
 //
 
+import AVFoundation
 import UIKit
 
-open class ConnectionAnimation: UIImageView {
+public class ConnectionAnimation: UIImageView {
 
-    fileprivate var timer: Timer?
-    fileprivate let imageNamesArray = ["lookingforwifi1", "lookingforwifi2", "lookingforwifi3", "havewifi"]
-    fileprivate var currentIndex: Int = 0
+    private var timer: Timer?
+    private let imageNamesArray = ["lookingforwifi1", "lookingforwifi2", "lookingforwifi3", "havewifi"]
+    private var currentIndex: Int = 0
     
     override open func layoutSubviews() {
         super.layoutSubviews()
