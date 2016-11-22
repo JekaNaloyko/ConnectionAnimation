@@ -1,5 +1,5 @@
 PODS:
-  - ConnectionAnimation (0.1.0)
+  - ConnectionAnimation (1.0.5)
 
 DEPENDENCIES:
   - ConnectionAnimation (from `../`)
@@ -9,6 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ConnectionAnimation: 1becc7ffa8fb2d9156e713a18edcd0ec76fb153b
+  ConnectionAnimation: f6193749dc25e66b3bedd85dd5a15e1f2d4c27d2
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: 7b09a6cb93f5f8f13670cbd8433f39f383b52730
+
+COCOAPODS: 1.1.0.rc.2
